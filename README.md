@@ -1,6 +1,6 @@
 # Recursos para el análisis y evaluación de políticas de tecnologías emergentes
 
-## I. Aprendizaje automático
+## I. Aprendizaje automático con TensorFlow
 
 - [Curso intensivo de aprendizaje automático con las API de TensorFlow](https://developers.google.com/machine-learning/crash-course?hl=es-419). Introducción rápida y práctica al aprendizaje automático de Google, que incluye una serie de lecciones con clases por video, casos de éxito reales y ejercicios prácticos.
 
