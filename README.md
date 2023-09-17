@@ -54,7 +54,7 @@
 
 **Abstract:** What is innovation and how should it be measured? Understanding the scale of innovation activities, the characteristics of innovative firms and the internal and systemic factors that can influence innovation is a prerequisite for the pursuit and analysis of policies aimed at fostering innovation. First published in 1992, the Oslo Manual is the international reference guide for collecting and using data on innovation. In this fourth edition, the manual has been updated to take into account a broader range of innovation-related phenomena as well as the experience gained from recent rounds of innovation surveys in OECD countries and partner economies and organisations. 
 
-- OECD/Eurostat (2018). [*Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition*] (https://doi.org/10.1787/9789264304604-en), The Measurement of Scientific, Technological and Innovation Activities, OECD Publishing, Paris/Eurostat, Luxembourg.
+- OECD/Eurostat (2018). [*Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition*](https://doi.org/10.1787/9789264304604-en), The Measurement of Scientific, Technological and Innovation Activities, OECD Publishing, Paris/Eurostat, Luxembourg.
 
 ##
 
