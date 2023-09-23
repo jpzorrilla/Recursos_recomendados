@@ -58,6 +58,6 @@
 
 ##
 
-*Este repositorio esta sujeto a cambios según se van actualizando los recursos.*
+*Este repositorio esta sujeto a cambios a medida que se van actualizando los recursos.*
 
 **Última actualización:** 17/09/2023
