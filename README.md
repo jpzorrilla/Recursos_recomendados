@@ -48,6 +48,12 @@
 
 - Este [portal](https://www.iadb.org/es/topics-effectiveness-improving-lives/evaluacion-de-impacto) contiene herramientas para implementar evaluaciones de impacto. El contenido se organiza según el ciclo de actividades necesarias para completar una evaluación satisfactoria.
 
+### DIME Analytics
+
+DIME es el grupo de Evaluación del Impacto en el Desarrollo del Banco Mundial. Este grupo ha creado toda una serie de recursos abiertos al público, entre ellos se encuentra [DIME Wiki](https://dimewiki.worldbank.org/Main_Page) un portal que ofrece diversas guías para el diseño de investigación, la recolección y el análisis de datos, así como la publicación de los resultados. La misma información la encontrarás disponible en su manual:
+
+- Bjarkefur, K.; Cardoso de Andrade, L.; Daniels, B.; Jones, M. R. (2021). [*Development Research in Practice: The DIME Analytics Data Handbook*](https://openknowledge.worldbank.org/entities/publication/c0d71cd5-064b-5c4f-a8d6-1be40bb3ee25). Washington, DC: World Bank.
+
 ## VI. Innovación
 
 ## Oslo Manual 2018. Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition
@@ -60,4 +66,4 @@
 
 *Este repositorio esta sujeto a cambios a medida que se van actualizando los recursos.*
 
-**Última actualización:** 17/09/2023
+**Última actualización:** 07/12/2023
