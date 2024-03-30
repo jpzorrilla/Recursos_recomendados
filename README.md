@@ -56,14 +56,22 @@ DIME es el grupo de Evaluación del Impacto en el Desarrollo del Banco Mundial. 
 
 ## VI. Innovación
 
-## Oslo Manual 2018. Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition
+### Oslo Manual 2018. Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition
 
 **Abstract:** What is innovation and how should it be measured? Understanding the scale of innovation activities, the characteristics of innovative firms and the internal and systemic factors that can influence innovation is a prerequisite for the pursuit and analysis of policies aimed at fostering innovation. First published in 1992, the Oslo Manual is the international reference guide for collecting and using data on innovation. In this fourth edition, the manual has been updated to take into account a broader range of innovation-related phenomena as well as the experience gained from recent rounds of innovation surveys in OECD countries and partner economies and organisations. 
 
 - OECD/Eurostat (2018). [*Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition*](https://doi.org/10.1787/9789264304604-en), The Measurement of Scientific, Technological and Innovation Activities, OECD Publishing, Paris/Eurostat, Luxembourg.
 
+## VII. Government Analytics
+
+### The Government Analytics Handbook. Leveraging data to strengthen public administration
+
+**Abstract** The *Government Analytics Handbook* presents frontier evidence and practitioner insights on how to leverage data to strengthen public administration. Covering a range of microdata sources—such as administrative data and public servant surveys—as well as tools and resources for undertaking the analytics, it transforms the ability of governments to take a data-informed approach to diagnose and improve how public organizations work.
+
+- Rogger, D. and Schuster, C. eds. (2023). [*The Government Analytics Handbook: Leveraging Data to Strengthen Public Administration*](https://www.worldbank.org/en/publication/government-analytics). Washington, DC: World Bank. doi:10.1596/978-1-4648-1957-5
+
 ##
 
 *Este repositorio esta sujeto a cambios a medida que se van actualizando los recursos.*
 
-**Última actualización:** 07/12/2023
+**Última actualización:** 30/03/2024
